@@ -1,10 +1,11 @@
 * metering
 
+The Metering System is a portable Common Lisp code profiling tool. It
+gathers timing and consing statistics for specified functions while a
+program is running
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/dkochmanski/metering.git   |
-| commit  |   |
-| systems | metering |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/dkochmanski/metering.git |
+| commit  | 62dbaa5                                                     |
+| systems | metering                                                    |
+|---------+-------------------------------------------------------------|
